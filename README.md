@@ -11,9 +11,11 @@ I'm Pradnyesh Utpat, a final year engineering student at COEP Technological Univ
 
 
 
+## GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PradnyeshUtpat&layout=compact)](https://github.com/PradnyeshUtpat)
+[![Pradnyesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PradnyeshUtpat&count_private=true&show_icons=true&theme=radical)](https://github.com/PradnyeshUtpat)
 
+## Top Languages
 
-
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PradnyeshUtpat&layout=compact)](https://github.com/PradnyeshUtpat)
 
