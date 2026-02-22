@@ -15,7 +15,7 @@ I'm Pradnyesh Utpat, a final year engineering student at COEP Technological Univ
 
 ## 📊 GitHub Stats
 
-![Pradnyesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PradnyeshUtpat&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PradnyeshUtpat&layout=donut&theme=radical&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=PradnyeshUtpat&theme=radical&hide_border=true)
 
