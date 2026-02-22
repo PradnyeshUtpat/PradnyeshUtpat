@@ -13,8 +13,6 @@ I'm Pradnyesh Utpat, a final year engineering student at COEP Technological Univ
 
 ## GitHub Stats
 
-## 📊 GitHub Stats
-
 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=PradnyeshUtpat&theme=radical&hide_border=true)
